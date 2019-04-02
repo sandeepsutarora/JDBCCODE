@@ -25,6 +25,7 @@ public class App {
 			if(artists == null)
 			{
 				System.out.println("No Artists");
+				System.out.println("No Artists");
 				return;
 			}			
 			d.querySongMetaData();
